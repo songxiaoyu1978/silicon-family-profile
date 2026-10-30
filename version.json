@@ -1,0 +1,13 @@
+{
+  "commit": "827cb88e47b9e0899e4d3d05ba37617cd0a5c738",
+  "content_sha256": "f8b6fca52be69962be5650673fb389a09a746c026ee1966d9dc023c8be42afd3",
+  "entrypoints": {
+    "html": "index.html",
+    "text": "full.txt",
+    "version": "version.json"
+  },
+  "schema_version": 1,
+  "updated_at": "2026-10-30T00:00:00+08:00",
+  "verification_code": "8dc0830335366cb3",
+  "version": "2026.10.30-827cb88e47b9"
+}
