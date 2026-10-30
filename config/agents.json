@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "agents": [
+    {
+      "id": "yingzi",
+      "key_id": "yingzi-mac-20261030",
+      "public_key": "pu5T8QdNvR0McUwUZF3hHpFckMaGp/dq8MSam1O9o/E=",
+      "github_user_id": 254205443,
+      "enabled": true
+    }
+  ]
+}
