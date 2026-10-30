@@ -1,0 +1,20 @@
+{
+  "payload": {
+    "protocol_version": 1,
+    "repository": "songxiaoyu1978/silicon-family-profile",
+    "agent_id": "yingzi",
+    "key_id": "yingzi-mac-20261030",
+    "event_id": "2526cc07-acbe-454e-8793-935e650a0b6e",
+    "base_commit": "827cb88e47b9e0899e4d3d05ba37617cd0a5c738",
+    "confirmed_at": "2026-10-30T05:39:01+00:00",
+    "category": "work",
+    "preference_id": "work-preserve_existing_changes",
+    "scope": "global",
+    "expected_revision": null,
+    "old_value": null,
+    "new_value": "修改已有内容前先读原文，保留用户已有改动，不随意覆盖、删除或回滚。",
+    "confirmation": "user_explicit",
+    "public_safe": true
+  },
+  "signature": "5TpljfRCGdjJQJviabeoad3PZBLSsinixNrBxOikOwJ4JBG5ae1lxLp0ZkqNGMJvCSnjBwa8He6ZRPJhCAi9DA=="
+}
